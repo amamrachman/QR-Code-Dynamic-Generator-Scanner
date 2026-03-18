@@ -1,9 +1,3 @@
-Tentu, ini adalah langkah yang sangat bagus. Memiliki repositori yang rapi dengan `README.md` yang profesional akan membuat portofolio GitHub Anda terlihat jauh lebih menarik bagi perekrut atau sesama pengembang.
-
-Berikut adalah draf deskripsi **README.md** yang telah saya sesuaikan dengan stack yang Anda gunakan (Vite, React, TypeScript, Go Fiber v3):
-
----
-
 # QR Code Dynamic Generator & Scanner
 
 Proyek ini adalah aplikasi *full-stack* modern yang mendemonstrasikan alur kerja **End-to-End (E2E)** dalam pembuatan dan pemindaian QR Code secara dinamis. Aplikasi ini memungkinkan pengguna untuk menghasilkan QR Code berdasarkan input teks dari backend, mengunduhnya sebagai file gambar, dan melakukan verifikasi data melalui fitur unggah gambar di sisi frontend.
